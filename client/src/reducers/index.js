@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux';
 
+import authReducer from './authReducer';
+
 export default combineReducers({
-  fixme: () => {
-    return 'abobora';
-  }
+  auth: authReducer
 });
