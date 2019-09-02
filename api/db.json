@@ -1,13 +1,13 @@
 {
   "streams": [
     {
-      "title": "qweqwe",
-      "description": "1231231",
+      "title": "Stream First",
+      "description": "This is my first Stream",
       "id": 1
     },
     {
-      "title": "asdasda",
-      "description": "123123",
+      "title": "Second Stream",
+      "description": "This is my second Stream",
       "id": 2
     }
   ]
